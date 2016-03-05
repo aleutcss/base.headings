@@ -18,4 +18,6 @@ $heading-size-6:  14px;
 
 ## Install using npm:
 
+```shell
     $ npm install --save-dev aleut-headings
+```
