@@ -1,6 +1,6 @@
 {
-  "name": "@aleut/aleut-headings",
-  "version": "0.4.0",
+  "name": "aleut-headings",
+  "version": "0.5.0",
   "description": "Base heading rules for the aleutcss framework  (based on Harry Roberts inuitcss framework)",
   "main": "_base.headings.scss",
   "repository": {
